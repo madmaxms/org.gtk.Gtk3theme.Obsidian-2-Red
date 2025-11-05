@@ -4,7 +4,7 @@
    "runtime":"org.freedesktop.Sdk",
    "build-extension":true,
    "sdk":"org.freedesktop.Sdk",
-   "runtime-version":"22.08",
+   "runtime-version":"23.08",
    "appstream-compose":false,
    "separate-locales":false,
    "modules":[
@@ -22,9 +22,9 @@
          "sources":[
             {
                "type":"file",
-               "url":"https://github.com/madmaxms/theme-obsidian-2/releases/download/v2.22/obsidian-2-theme.tar.xz",
+               "url":"https://github.com/madmaxms/theme-obsidian-2/releases/download/v2.25/obsidian-2-theme.tar.xz",
                "dest-filename": "obsidian-2-theme.tar.xz",
-               "sha256":"5af4a5cc2a1c93450c76f6a31d104d1d2ba054c4ad475143b7dbe3cd7e4aa7c0"
+               "sha256":"1da8f3d9b15cb22fbd9128f1b99e896aff2ded2eadac3505e72262bf0f95ca9c"
             }
          ]
       },
